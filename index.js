@@ -56,7 +56,7 @@ const pizzasIdImpar = () =>{
   })
 }
 
-// pizzasIdImpar()
+pizzasIdImpar()
 
 
 const pizzaBarata = () => {
@@ -67,7 +67,7 @@ const pizzaBarata = () => {
   })
 }
 
-// pizzaBarata()
+pizzaBarata()
 
 const pizzasName = () => {
   console.log("Opciones de pizzas");
@@ -76,7 +76,7 @@ const pizzasName = () => {
   })
 }
 
-// pizzasName()
+pizzasName()
 
 const ingredientesPizzas = () => {
   console.log("Las pizzas y sus respectivos ingredientes");
